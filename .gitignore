@@ -1,0 +1,5 @@
+bin
+data
+install_*.log
+.idea
+config.*.yaml
